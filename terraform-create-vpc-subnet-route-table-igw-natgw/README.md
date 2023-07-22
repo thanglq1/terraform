@@ -1,6 +1,6 @@
 ## Deploy
 
-1. cd to terraform-create-vpc-subnet-route-table-igw
+1. cd to terraform-create-vpc-subnet-route-table-igw-natgw
 2. Run command `terraform init`
 3. Run command `terraform apply`
 
